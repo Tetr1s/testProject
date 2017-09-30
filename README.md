@@ -1,3 +1,3 @@
 # testProject
-empty
+not empty
 
